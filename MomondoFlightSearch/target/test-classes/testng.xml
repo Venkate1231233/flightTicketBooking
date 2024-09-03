@@ -1,0 +1,11 @@
+
+<suite name="FlightSearchSuite" parallel="true">
+    <test name="FlightSearchTests">
+        <classes>
+            <!-- Reference to your TestRunner class -->
+            <class name="com.runner.TestRunner">
+               
+            </class>
+        </classes>
+    </test>
+</suite>
